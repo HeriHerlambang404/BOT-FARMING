@@ -1,0 +1,3 @@
+data besar itu penting
+pemrosesan data besar butuh spark
+spark memproses data secara paralel dan cepat
